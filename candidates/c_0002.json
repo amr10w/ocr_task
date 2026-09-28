@@ -1,0 +1,67 @@
+{
+  "candidate_id": "c_0002",
+  "name": "Jessica Claire",
+  "email": "resumesample@example.com",
+  "phone": "(555) 432-0000",
+  "location": "San Francisco, CA 94105",
+  "summary": "Detail-oriented Accountant who effectively manages strict deadlines, schedules and tasks with positive, can-do attitude.",
+  "education": [
+    {
+      "institution": "Pace University",
+      "degree": "Master of Science: Accounting",
+      "years": "2013"
+    },
+    {
+      "institution": "Northeast University of Finance and Economics",
+      "degree": "Bachelor of Science: International Accounting",
+      "years": "2011"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Transamerica Life Insurance Company",
+      "title": "Accountant",
+      "dates": "10/2011 to 04/2013",
+      "description": "Coordinated fixed asset additions using advanced Excel functions to develop reports and lists. Suggested process improvements to secure prompt and regular receipts for the organization. Verified details of transactions, including funds received and total account balance. Drafted meeting agendas, supplied advance materials, executed follow-up for meetings and team conferences, and created PowerPoint presentations used for business development."
+    },
+    {
+      "company": "Seven Hills Foundation",
+      "title": "Volunteer",
+      "dates": "02/2013 to 03/2013",
+      "description": "Preparation of federal and multi-state individual tax. Research and planning on various tax issues, including analysis of new tax provisions involved with IRS. Responded to client inquires and familiarity with tax-preparation software programs."
+    },
+    {
+      "company": "Telephone And Data Systems Inc",
+      "title": "Tax Intern",
+      "dates": "05/2012 to 07/2012",
+      "description": "Assisted in preparing and analyzing financial statements for tax and regulatory compliance. Reviewed and compiled international treaties between China and other countries. Assist in the preparation of valuation reports for closely held or publicly traded companies. Performed industry research and provided supportive information to assist analyzing foreign entity profitability. In charge of tracking updated news about variable interest entities, New Oriental Education & Technology Group NYSE(EDU)."
+    },
+    {
+      "company": "Unknown",
+      "title": "Audit Intern",
+      "dates": "08/2010 to 11/2010",
+      "description": "Perform components of auditing technology company under the direct supervision of the auditor in-charge. Assisted senior manager to review various business areas using risk-based audit methodology. Document and evaluate audit evidence in support of audit objectives."
+    }
+  ],
+  "skills": [
+    "Financial statement analysis",
+    "General and tax accounting",
+    "GAAP guidelines",
+    "Excel",
+    "PowerPoint",
+    "Tax-preparation software"
+  ],
+  "projects": [],
+  "certifications": [
+    "Student Affiliate Membership of AICPA",
+    "Pursuing AICPA",
+    "Member of the Association for Corporate Growth (ACG)"
+  ],
+  "languages": [],
+  "raw_text": "JESSICA CLAIRE Montgomery Street, San Francisco, CA 94105 (555) 432-0000 resumesample@example.com SuMMARY Detail-oriented Accountant who effectively manages strict deadlines, schedules and tasks with positive, can-do attitude. HGHLIGHTS Financial statement analysis General and tax accounting Knowledge of GAAP guidelines management ExPERIENCE 10/2011 to 04/2013 Accountant Transamerica Life Insurance Company Little Rock, AR Coordinated fixed asset additions using advanced Excel functions to develop reports and lists. Suggested process improvements to secure prompt and regular receipts for the organization. Verified details of transactions, including funds received and total account balance. Drafted meeting agendas, supplied advance materials, executed follow-up for meetings and team conferences, and created PowerPoint presentations used for business development. 02/2013 to 03/2013 Volunteer Seven Hills Foundation Plympton, MA Preparation of federal and multi-state individual tax. Research and planning on various tax issues, including analysis of new tax provisions involved with IRS. Responded to client inquires and familiarity with tax-preparation software programs. 05/2012 to 07/2012 Tax Intern Telephone And Data Systems Inc Eden Prairie, MN Assisted in preparing and analyzing financial statements for tax and regulatory compliance. Reviewed and compiled international treaties between China and other countries. Assist in the preparation of valuation reports for closely held or publicly traded companies. Performed industry research and provided supportive information to assist analyzing foreign entity profitability. In charge of tracking updated news about variable interest entities, New Oriental Education & Technology Group NYSE(EDU). 08/2010 to 11/2010 Audit Intern Miami, FL Perform components of auditing technology company under the direct supervision of the auditor in-charge. Assisted senior manager to review various business areas using risk-based audit methodology. Document and evaluate audit evidence in support of audit objectives. EDUcATION 2013 Master of Science: Accounting GPA 3.4 Pace University New York City, NY 2011 Bachelor of Science: International Accounting GPA 3.8 Northeast University of Finance and Economics Dalian, China AFFIIATIONS Student Affiliate Membership of AICPA; Pursuing AICPA Member of the Association for Corporate Growth (ACG)",
+  "flags": [
+    "projects not listed",
+    "languages not listed",
+    "Audit Intern company name missing"
+  ]
+}

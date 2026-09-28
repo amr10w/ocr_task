@@ -1,0 +1,31 @@
+# Environment and secrets (CRITICAL: Do NOT commit API keys)
+.env
+*.env
+!.env.example
+
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environments
+venv/
+env/
+ENV/
+.venv/
+
+# IDE and editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OCR debug artifacts
+debug_*.png
+
+# Temporary and log files
+*.log
+scratch/
+
+HOW_TO_RUN.md

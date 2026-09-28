@@ -1,0 +1,50 @@
+{
+  "c_0001": {
+    "file": "candidates/c_0001.json",
+    "name": "Jessica Claire",
+    "email": "resumesample@example.com",
+    "phone": "(555) 432-1000",
+    "location": "San Francisco, CA 94105",
+    "skills": [
+      "Financial statement analysis",
+      "General and tax accounting",
+      "GAAP guidelines",
+      "Time management"
+    ],
+    "education": [
+      "Master of Science: Accounting at Pace University",
+      "Bachelor of Science: International Accounting at Northeast University of Finance and Economics"
+    ],
+    "companies": [
+      "Transamerica Life Insurance Company",
+      "Seven Hills Foundation",
+      "Telephone And Data Systems Inc.",
+      "Lkq"
+    ]
+  },
+  "c_0002": {
+    "file": "candidates/c_0002.json",
+    "name": "Jessica Claire",
+    "email": "resumesample@example.com",
+    "phone": "(555) 432-0000",
+    "location": "San Francisco, CA 94105",
+    "skills": [
+      "Financial statement analysis",
+      "General and tax accounting",
+      "GAAP guidelines",
+      "Excel",
+      "PowerPoint",
+      "Tax-preparation software"
+    ],
+    "education": [
+      "Master of Science: Accounting at Pace University",
+      "Bachelor of Science: International Accounting at Northeast University of Finance and Economics"
+    ],
+    "companies": [
+      "Transamerica Life Insurance Company",
+      "Seven Hills Foundation",
+      "Telephone And Data Systems Inc",
+      "Unknown"
+    ]
+  }
+}
